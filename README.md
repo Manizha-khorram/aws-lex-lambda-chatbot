@@ -92,5 +92,3 @@ Approximately 1 hour
 ## Author
 
 Manizha Khorram
-
-**Disclaimer**: This is a simulation project and should not be used for actual financial transactions.
