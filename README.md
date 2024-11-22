@@ -91,17 +91,6 @@ Approximately 1 hour
 
 ## Author
 
-Manizha Khorram - NextWork.org Student
-
-## License
-
-[Specify your license here]
-
-## Acknowledgments
-
-- AWS Documentation
-- NextWork.org
-
----
+Manizha Khorram
 
 **Disclaimer**: This is a simulation project and should not be used for actual financial transactions.
